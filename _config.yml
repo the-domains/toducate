@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: toducate
+favicon: null
+layout_spectrum: 0.1733311945572495
+typography_spectrum: 0.303499907720834
 collections:
   - index:
       path: /
@@ -18,23 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.1733311945572495
+title: reflections. musings. aphorisms
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8539526963140815
-  brandStrength: 0.8547548577189445
-  rhythmicContrast: 0.3658582740463316
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  brandStrength: 0.8547548577189445
   lightness: 0.9603668700437993
+  saturation: 0.8539526963140815
+  rhythmicContrast: 0.3658582740463316
 purpose: []
-favicon: null
-name: toducate
-typography_spectrum: 0.303499907720834
