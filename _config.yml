@@ -1,0 +1,28 @@
+name: toducate
+favicon: null
+layout_spectrum: 0.17333119455724955
+typography_spectrum: 0.303499907720834
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8547548577189445
+  lightness: 0.9603668700437993
+  saturation: 0.8539526963140815
+  rhythmicContrast: 0.36585827404633164
+purpose: []
