@@ -1,7 +1,7 @@
 name: toducate
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.28141
+typography_spectrum: 0.48465
 collections:
   - index:
       path: /
