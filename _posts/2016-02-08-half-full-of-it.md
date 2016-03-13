@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T20:55:08.542Z'
-dateModified: '2016-02-08T20:55:07.386Z'
+datePublished: '2016-03-13T03:33:06.087Z'
+dateModified: '2016-02-08T22:07:30.605Z'
 title: Half Full of It
 author: []
+sourcePath: _posts/2016-02-08-half-full-of-it.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-half-full-of-it.md
-published: true
 url: half-full-of-it/index.html
 _type: Article
 
@@ -26,11 +26,7 @@ I suspect Annie wants me to quit drinking Diet Mountain Dew. Mostly I think this
 
 "Quit drinking Mt. Dew please."
 
-The thing is, she always focuses on how much I drink and insists that anything over 90 fluid ounces per day is excessive. I don't like this 
-
-_glass-is-half-empty_
-
-mentality. I've always preferred to see my glass as half full, especially my glass of sweet & heavenly Mountain Dew. So I've tracked my behavior and crunched some numbers. What I've discovered through research and science has been surprising.
+The thing is, she always focuses on how much I drink and insists that anything over 90 fluid ounces per day is excessive. I don't like this mentality. I've always preferred to see my glass as half full, especially my glass of sweet & heavenly Mountain Dew. So I've tracked my behavior and crunched some numbers. What I've discovered through research and science has been surprising.
 
 **Scientific\* Research Findings:**
 
